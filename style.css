@@ -33,7 +33,7 @@ input{
     color: #ffffff;
     border-radius: 16px;
 }
-ul{
+p{
     
     width: 400px;
     height: 90px;
@@ -46,7 +46,7 @@ ul{
 
 
 }
-li {
+button{
     border: solid;
     width: 90px;
     height: 60px;
